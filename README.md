@@ -68,3 +68,4 @@ MIT License © 2026 Mirage Studio
 ---
 
 **Built with ❤️ by [Mirage Studio](https://github.com/themiragestudio)**
+# Linkin AI Models
