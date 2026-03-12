@@ -1,13 +1,13 @@
-# Linkin AI Models
+# Harbour AI Models
 
-> 发现、比较和使用最佳的AI模型
+> 安全、连接、创新的AI模型港湾
 
-[![Deploy](https://github.com/themiragestudio/linkin/actions/workflows/deploy.yml/badge.svg)](https://github.com/themiragestudio/linkin/actions/workflows/deploy.yml)
-[![GitHub Pages](https://img.shields.io/badge/demo-live-brightgreen)](https://themiragestudio.github.io/linkin/)
+[![Deploy](https://github.com/themiragestudio/harbour/actions/workflows/deploy.yml/badge.svg)](https://github.com/themiragestudio/harbour/actions/workflows/deploy.yml)
+[![GitHub Pages](https://img.shields.io/badge/demo-live-brightgreen)](https://themiragestudio.github.io/harbour/)
 
 ## 🎯 项目概述
 
-Linkin AI Models 是一个现代化的 AI 模型展示和比较平台，参考 [evolink.ai/models](https://evolink.ai/models) 的设计标准构建。
+Harbour AI Models 是一个现代化的 AI 模型展示和比较平台，基于"Harbour"（港口/港湾）概念设计，融合了安全、连接、创新、成长的港湾理念。参考 [evolink.ai/models](https://evolink.ai/models) 的设计标准和 nvidia.com 的用户体验构建。
 
 ## ✨ 功能特性
 
@@ -27,8 +27,8 @@ Linkin AI Models 是一个现代化的 AI 模型展示和比较平台，参考 [
 
 ```bash
 # 克隆项目
-git clone https://github.com/themiragestudio/linkin.git
-cd linkin
+git clone https://github.com/themiragestudio/harbour.git
+cd harbour
 
 # 安装依赖
 npm install
@@ -43,7 +43,7 @@ npm run build
 ## 📁 项目结构
 
 ```
-linkin/
+harbour/
 ├── src/
 │   ├── components/    # React 组件
 │   ├── data/         # 数据文件
@@ -57,7 +57,7 @@ linkin/
 
 ## 🔗 链接
 
-- **Live Demo**: https://themiragestudio.github.io/linkin/
+- **Live Demo**: https://themiragestudio.github.io/harbour/
 - **组织主页**: https://themiragestudio.github.io/homepage/
 - **技术博客**: https://themiragestudio.github.io/tech-blog-astro/
 
@@ -68,4 +68,3 @@ MIT License © 2026 Mirage Studio
 ---
 
 **Built with ❤️ by [Mirage Studio](https://github.com/themiragestudio)**
-# Linkin AI Models
